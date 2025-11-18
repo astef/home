@@ -1,5 +1,5 @@
 ---
-name: Custom issue template
+name: TODO issue template
 about: Describe this issue template's purpose here.
 title: ''
 labels: ''
